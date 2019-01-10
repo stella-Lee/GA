@@ -1,2 +1,2 @@
 # GA
-Genetic Algorithm
+Genetic Algorithm by J.Lee
